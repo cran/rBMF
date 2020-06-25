@@ -1,0 +1,17 @@
+8f4f211b43c3fea4f7ba3c50906b68a1 *DESCRIPTION
+9e9a89dafe953a25e2e000f2cc1c020d *NAMESPACE
+4ec9a543a0840a35e3e4b3f82ad4d9ef *NEWS
+ec8a8a4abef807f368bdc123aae2855e *R/Asso2R.R
+98818fa937d95d531ba89898318f6ebc *R/GreConDPlus.R
+95c39b8de1aca5cb7130969575d366e0 *R/GreCond.R
+fe9eff873aa817b3450670b33a93d458 *R/topFiberM.R
+cd4da06dab6366cbd3906ec9bb564867 *build/partial.rdb
+fcaacc71300785945aaf0eaaa95dda8a *data/Chess.RData
+bb5fdae031ede129b77908acc9627063 *data/DBLP.RData
+2a817fd605f6fbd834d795781075eb58 *man/Asso_approximate.Rd
+0063080616d6e894baa7b5dc9807b8a0 *man/Chess.Rd
+ad3e635828dd5204cbac850f45703bd8 *man/DBLP.Rd
+fd77661973d18abd94509c718575c314 *man/GreConD.Rd
+fa21541b8f9cc9d84c3f43c78d3df0ac *man/GreConDPlus.Rd
+d82de76be8e7bfae90c9f69a5cb2614e *man/rBMF-package.Rd
+1c7c8657504d2f73d34d57667f0621f5 *man/topFiberM.Rd

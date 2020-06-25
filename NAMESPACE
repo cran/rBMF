@@ -1,0 +1,12 @@
+importFrom(Rcpp, cppFunction)
+
+
+import(Matrix)
+
+export(Asso_approximate)
+export(topFiberM)
+export(GreConD)
+export(GreConDPlus)
+
+importFrom("methods", "as", "is")
+
